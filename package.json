@@ -1,0 +1,28 @@
+{
+  "name": "eris-cacher",
+  "version": "0.5.0",
+  "license": "MIT",
+  "description": "Eris doesn't provide custom cache solutions on it's own. This library allows users to configure custom cache solutions easily.",
+  "keywords": [
+    "Discord",
+    "Eris",
+    "Bots",
+    "Discord Bot"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.t.js",
+  "author": {
+    "name": "Oded \"dondish\" Shapira",
+    "url": "https://dondish.ml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dondish/eris-cacher"
+  },
+  "dependencies": {
+    "eris": "^0.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.8"
+  }
+}
